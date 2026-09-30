@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: eval_python_svc_1790778745
+  description: Python 3.11 microservice created via the DCP Golden Path
+  tags:
+    - python
+    - microservice
+  annotations:
+    github.com/project-slug: hingerabhinav/eval_python_svc_1790778745
+spec:
+  type: service
+  lifecycle: experimental
+  owner: eval_team_1790778745
